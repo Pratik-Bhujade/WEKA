@@ -1,0 +1,14 @@
+File Description
+
+dataset.arff  - preprocessed dataset without step 8
+testingSet.arff - 90% of dataset.arff
+traininSet.arff -  remaining 10% of dataset.arff
+
+Datasets with small variations for each model:
+
+associationrules.arff 
+DBSCAN.arff
+j48.arff
+kmeans.arff
+
+winequalityN.csv - original dataset in CSV format
